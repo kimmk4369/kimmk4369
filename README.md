@@ -3,4 +3,4 @@
 ![](https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white) ![](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySql&logoColor=white) ![](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white) ![](https://img.shields.io/badge/-MariaDB-%23003545?style=flat-square&logo=MariaDB&logoColor=white) <br>
 ![](https://img.shields.io/badge/-Amazon%20AWS-%23232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white)
 # Learning ⚡
-![](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white) ![](https://img.shields.io/badge/-Scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=black) ![](https://img.shields.io/badge/-Elasticsearch-%23005571?style=flat-square&logo=Elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=Go&logoColor=white) ![](https://img.shields.io/badge/-Scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
